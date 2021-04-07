@@ -1,0 +1,52 @@
+.horizontally{
+    display: inline-block;
+    padding-top: 8em;
+    padding-left: 8em;
+    width: 30em
+}
+
+.gamedetails{
+    height: 30em;
+    width: 30em;
+    background-color: rgb(11, 11, 12);
+    border: 10px solid rgb(26, 26, 25);
+    border-radius: 25px;
+}
+
+.userpart{
+    height: 25%;
+    width: 90%;
+    background-color: rgb(45, 52, 59);
+    border: 10px solid rgb(26, 26, 25);
+    border-radius: 25px;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+
+.movepart{
+    height: 45%;
+    width: 90%;
+    background-color: rgb(45, 52, 59);
+    border: 10px solid rgb(26, 26, 25);
+    border-radius: 25px;
+    margin-top: 21px;
+    margin-left: 14px;
+
+}
+
+.restart{
+    text-align: center;
+    color: aliceblue;
+    height: 8%;
+    width: 15%;
+    background-color: rgb(3, 3, 3);
+    border: 5px solid rgb(26, 26, 25);
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 202px;
+}
+.restart:hover{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+
+}
